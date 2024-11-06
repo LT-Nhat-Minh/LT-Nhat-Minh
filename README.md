@@ -1,7 +1,7 @@
 Hi 👋 My name is Lâm Tấn Nhật Minh
 ==================================
 
-* 🌍  I'm based in I'm based in VietNam vn
+* 🌍  I'm based in VietNam vn
 * ✉️  You can contact me at [22520863@gm.uit.edu.vn](mailto:22520863@gm.uit.edu.vn)
 * 🧠  I'm learning ReactJS, next one is NestJS for improving Back-end skill
 * ⚡  Vaundy's music is fire 🔥🔥🔥
